@@ -1,0 +1,12 @@
+[color]
+
+gradient = 1
+
+gradient_color_1 = '#80DEEA'  # Material Cyan
+gradient_color_2 = '#81D4FA'  # Material Light Blue
+gradient_color_3 = '#4FC3F7'  # Material Blue
+gradient_color_4 = '#42A5F5'  # Material Blue Accent
+gradient_color_5 = '#7E57C2'  # Material Deep Purple
+gradient_color_6 = '#BA68C8'  # Material Purple
+gradient_color_7 = '#EC407A'  # Material Pink
+gradient_color_8 = '#E57373'  # Material Red

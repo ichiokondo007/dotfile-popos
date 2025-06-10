@@ -1,0 +1,7 @@
+
+alias pbcopy='xclip -selection clipboard'
+alias pbpaste='xclip -selection clipboard -o'
+alias vim='nvim'
+alias open='xdg-open'
+alias pets='pet search | pbcopy'  
+
